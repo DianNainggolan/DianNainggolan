@@ -10,25 +10,37 @@
 
 Fresh graduate in **Informatics Engineering** with practical experience in **data science**, **machine learning**, and **data analysis**.  
 I’m passionate about transforming data into actionable insights and building solutions that support data-driven decision making.  
-
 ---
 
 ## 🛠️ My Favorite Tools & Technologies
 
-### Languages
+### 💻 Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-### Frameworks & Libraries
+### 🧰 Frameworks & Libraries
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Prophet](https://img.shields.io/badge/Prophet-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![Sastrawi](https://img.shields.io/badge/Sastrawi-FF5722?style=for-the-badge&logo=python&logoColor=white)]()
+[![Feature Engine](https://img.shields.io/badge/Feature--Engine-212121?style=for-the-badge&logo=python&logoColor=white)]()
+[![Tabulate](https://img.shields.io/badge/Tabulate-4CAF50?style=for-the-badge&logo=python&logoColor=white)]()
+[![venv](https://img.shields.io/badge/venv-000000?style=for-the-badge&logo=python&logoColor=white)]()
 
-### Visualization & Analysis
+### 📊 Visualization & Tools
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
+[![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
@@ -39,19 +51,6 @@ I’m passionate about transforming data into actionable insights and building s
 - TensorFlow: Data and Deployment – Coursera  
 - Mathematics for Machine Learning – Coursera  
 - TOEFL ITP 553
-
----
-
-## 📚 Core Skills
-
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis  
-- Cohort & RFM Analysis  
-- Customer Segmentation  
-- Time Series Forecasting  
-- Sentiment Analysis & Text Mining  
-- Deep Learning & Machine Learning  
-- Data Visualization & Storytelling
 
 ---
 
