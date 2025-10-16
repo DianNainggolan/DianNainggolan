@@ -11,9 +11,6 @@
 Fresh graduate in **Informatics Engineering** with practical experience in **data science**, **machine learning**, and **data analysis**.  
 I’m passionate about transforming data into actionable insights and building solutions that support data-driven decision making.  
 
-Former Artificial Neural Network Lab Assistant and **Bangkit Academy** alumni with hands-on experience in Python programming, statistical modeling, and modern ML techniques.  
-Certified in TensorFlow and Machine Learning, with a strong foundation in analytical problem solving.
-
 ---
 
 ## 🛠️ My Favorite Tools & Technologies
